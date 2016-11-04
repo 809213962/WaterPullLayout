@@ -2,7 +2,7 @@
 //  WaterPullLayout.m
 //  04-自定义的瀑布流
 //
-//  Created by vera on 16/9/20.
+//  Created by lin on 16/9/20.
 //  Copyright © 2016年 林理刚. All rights reserved.
 //
 
