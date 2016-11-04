@@ -2,8 +2,8 @@
 //  WaterPullLayout.m
 //  04-自定义的瀑布流
 //
-//  Created by vera on 16/8/29.
-//  Copyright © 2016年 deli. All rights reserved.
+//  Created by vera on 16/9/20.
+//  Copyright © 2016年 林理刚. All rights reserved.
 //
 
 #import "WaterPullLayout.h"
